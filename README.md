@@ -48,6 +48,8 @@ Each KPI is designed for at-a-glance decision-making.
 
 
 🧠 Analytical Views
+
+
 1️⃣ Main Dashboard
 
 Sales KPIs with visual indicators
